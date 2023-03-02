@@ -1,3 +1,5 @@
+This portfolio was built off of ubaimutl's template linked here https://github.com/ubaimutl/react-portfolio. The following README is his as well. Big thank you for the template! 
+
 ### Description
 
 A simple portfolio template for developer/designers built with React. 
