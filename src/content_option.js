@@ -71,7 +71,11 @@ const skills = [{
         value: 100,
     },
     {
-        name: "AWS",
+        name: "SQL",
+        value: 100,
+    },
+    {
+        name: "AWS (EC2, S3, ECS, Lambda, APIGateway, CloudWatch)",
         value: 90,
     },
     {
@@ -80,7 +84,7 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 75,
     },
 ];
 
@@ -170,7 +174,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "jordanby19@gmail.com",
     YOUR_FONE: "415.518.0073",
-    description: "Send me an email or shoot me a call, I'd love to hear from you!",
+    description: "Send me an email or shoot me a call, I'd love to hear from you! *contact forum is a work in progress*",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
