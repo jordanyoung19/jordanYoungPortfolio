@@ -21,18 +21,18 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Jordan Young",
+    title: "Hi, I'm Jordan",
     animated: {
-        first: "I'm often coding",
-        second: "Or traveling",
-        third: "And I love music",
+        first: "I'm a Software Engineer",
+        second: "I also play soccer",
+        third: "And play music too",
     },
     description: "Here's a little portal to my life. Hope you enjoy and feel free to connect",
     your_img_url: soloGrad,
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "A Bit About Myself",
     aboutme: "I recently graduated from the University of California, Irvine, with a Bachelor's degree in Computer Science. Upon graduation I began full time at Amazon working as a Software Engineer after interning the Summer before.",
 };
 const worktimeline = [{
@@ -59,15 +59,15 @@ const worktimeline = [{
 
 const skills = [{
         name: "Java",
-        value: 90,
+        value: 100,
     },
     {
         name: "Python",
-        value: 90,
+        value: 100,
     },
     {
         name: "TypeScript",
-        value: 90,
+        value: 100,
     },
     {
         name: "AWS",
@@ -81,29 +81,31 @@ const skills = [{
         name: "React",
         value: 60,
     },
-    {
-        name: "Jquery",
-        value: 85,
-    },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Jazz Hands",
+        description: "Built web application that displays Spotify information retrieved from Spotify API using user entered queries. \
+        Used handtrack.js AI library to improve accessibility, allowing users to navigate the site with motions and gestures",
+        link: "https://github.com/jordanyoung19/jazzHands"
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Fabflix",
+        description: "Designed and developed front and back end of fully functional movie database website. \
+        Used XML parsing to upload large amounts of data quickly and mySQL to store and retrieve the data. \
+        Deployed site to live production using Tomcat server on AWS ECS instance built with Maven.",
+        link: "https://github.com/jordanyoung19/Fabflix"
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "This Website!",
+        description: "Feel Free to take a look at the source code linked for this site.",
+        link: "https://github.com/jordanyoung19/jordanYoungPortfolio"
     },
 ];
 
 const dataportfolio = [{
         img: bonfirePic,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "Friends in Newport",
         link: "#",
     },
     {
@@ -176,10 +178,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/jordanyoung19",
+    linkedin: "https://www.linkedin.com/in/jordanbyoung19/",
+    instagram: "https://www.instagram.com/jordan_young19/",
 };
 export {
     meta,
