@@ -21,11 +21,12 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm Jordan",
+    title: "Hi, I'm Jordan. I'm:",
     animated: {
-        first: "I'm a Software Engineer",
-        second: "I also play soccer",
-        third: "And play music too",
+        first: "a Software Engineer",
+        second: "a Soccer Player",
+        third: "a Musician",
+        fourth: "just havin fun."
     },
     description: "Here's a little portal to my life. Hope you enjoy and feel free to connect",
     your_img_url: soloGrad,
@@ -169,7 +170,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "jordanby19@gmail.com",
     YOUR_FONE: "415.518.0073",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Send me an email or shoot me a call, I'd love to hear from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
