@@ -24,9 +24,8 @@ const introdata = {
     title: "Hi, I'm Jordan. I'm:",
     animated: {
         first: "a Software Engineer",
-        second: "a Soccer Player",
-        third: "a Musician",
-        fourth: "just havin fun."
+        second: "currently in Seattle",
+        third: "just havin fun."
     },
     description: "Here's a little portal to my life. Hope you enjoy and feel free to connect",
     your_img_url: soloGrad,
@@ -186,6 +185,7 @@ const socialprofils = {
     github: "https://github.com/jordanyoung19",
     linkedin: "https://www.linkedin.com/in/jordanbyoung19/",
     instagram: "https://www.instagram.com/jordan_young19/",
+    vsco: "https://vsco.co/jyoung19/gallery"
 };
 export {
     meta,
