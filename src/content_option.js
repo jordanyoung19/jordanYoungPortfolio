@@ -33,9 +33,15 @@ const introdata = {
 
 const dataabout = {
     title: "A Bit About Myself",
-    aboutme: "I recently graduated from the University of California, Irvine, with a Bachelor's degree in Computer Science. Upon graduation I began full time at Amazon working as a Software Engineer after interning the Summer before.",
+    aboutme: "I recently graduated from the University of California, Irvine, with a Bachelor's degree in Computer Science. Now I'm located in Seattle and working at Veeva Systems as a Software Engineer.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle: "Software Engineer",
+        where: "Veeva Systems",
+        date: "2023",
+    },
+    {
         jobtitle: "Software Engineer",
         where: "Amazon",
         date: "2022",
