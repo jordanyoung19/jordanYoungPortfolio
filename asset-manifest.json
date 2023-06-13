@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jordanYoungPortfolio/static/css/main.618250d1.css",
-    "main.js": "/jordanYoungPortfolio/static/js/main.9318ea69.js",
+    "main.js": "/jordanYoungPortfolio/static/js/main.b42b0b88.js",
     "static/media/tahoeSunrise.JPG": "/jordanYoungPortfolio/static/media/tahoeSunrise.281bb665926e6c8ba5fa.JPG",
     "static/media/soloGrad.JPG": "/jordanYoungPortfolio/static/media/soloGrad.425613d41e4b19b4b923.JPG",
     "static/media/soundersGame.JPG": "/jordanYoungPortfolio/static/media/soundersGame.93eff01864b07f8bb019.JPG",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.618250d1.css",
-    "static/js/main.9318ea69.js"
+    "static/js/main.b42b0b88.js"
   ]
 }
